@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body,
+html {
+  background-color: #fff5f5; /* Ganti dengan kode warna yang Anda inginkan */
+}
